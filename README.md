@@ -1,16 +1,24 @@
-## Hi there 👋
-
-<!--
-**ajayjagtap-m365/ajayjagtap-m365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Ajay Jagtap 👋
+Microsoft 365 Administrator
+Experienced IT Professional with 5+ years of experience in System Administration, Microsoft 365, Endpoint Support, and Identity Management.
+---------------------------------------------------------------------------------
+Current Focus
+Microsoft 365
+Microsoft Entra ID
+Microsoft Intune
+Microsoft Defender
+Exchange Online
+Active Directory
+Endpoint Management
+Identity & Access Management (IAM)
+Currently Learning
+Microsoft Purview
+PowerShell
+Microsoft Graph API
+Microsoft Copilot
+---------------------------------------------------------------------------------
+Career Goal
+Building expertise in Modern Workplace, Identity, Endpoint Management, Security, and Automation.
+-----------
+Connect With Me
+LinkedIn: www.linkedin.com/in/ajayjagtap-m365
