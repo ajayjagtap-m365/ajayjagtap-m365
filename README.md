@@ -11,6 +11,7 @@ Exchange Online
 Active Directory
 Endpoint Management
 Identity & Access Management (IAM)
+------------------
 Currently Learning
 Microsoft Purview
 PowerShell
@@ -19,6 +20,6 @@ Microsoft Copilot
 ---------------------------------------------------------------------------------
 Career Goal
 Building expertise in Modern Workplace, Identity, Endpoint Management, Security, and Automation.
------------
+------------------
 Connect With Me
 LinkedIn: www.linkedin.com/in/ajayjagtap-m365
